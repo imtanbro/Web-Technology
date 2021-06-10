@@ -1,1 +1,19 @@
-<>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="book_catalog.css"?>
+<catalog>
+	<book>
+		<title>The History of Tom Jones</title>
+		<author>Henry Fielding</author>
+		<price>500</price>
+	</book>
+	<book>
+		<title>Harry Potter and the Philosophers Stone</title>
+		<author>J. K. Rowling</author>
+		<price>1000</price>
+	</book>
+	<book>
+		<title>Harry Potter and the Deathly Hallows</title>
+		<author>J. K. Rowling</author>
+		<price>1200</price>
+	</book>
+</catalog>
