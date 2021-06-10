@@ -1,0 +1,49 @@
+catalog:before {
+display: block;
+width: 8em;
+font-weight: bold;
+font-size: 200%;
+content: "BOOKS";
+margin: -.75em 0px .25em -.25em;
+padding: .1em .25em;
+background-color: #cdf;
+
+}
+
+catalog {
+display: block;
+margin: 2em 1em;
+border: 4px solid #cdf;
+padding: 0px 1em;
+background-color: #c203fc;
+background-image: url(1.jpg);
+
+}
+
+book {
+display: block;
+margin-bottom: 1em;
+color: white
+}
+
+title {
+display: block;
+font-weight: bold;
+font-size: 150%;
+}
+
+price {
+display: block;
+}
+
+price:before {
+content: "Price: Rs: ";
+}
+
+author {
+display: block;
+}
+
+author:before {
+content: "Name of author:";
+}
